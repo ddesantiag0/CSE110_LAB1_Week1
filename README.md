@@ -5,7 +5,7 @@ This repository hosts my personal projects and coursework as a Computer Engineer
 
 ## Quick Links
 
-- [Webpage Link](https://ddesantiag0.github.io/CSE110_LAB1_Week1/) - Visit my GitHub Pages site for a more detailed introduction and portfolio showcase.
+- ([Webpage_Link](https://ddesantiag0.github.io/CSE110_LAB1_Week1/)) - Visit my GitHub Pages site for a more detailed introduction and portfolio showcase.
 
 Thank you for stopping by!
 
