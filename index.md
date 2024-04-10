@@ -1,7 +1,7 @@
 # David De Santiago
 ## Computer Engineering Student at the University of California, San Diego
 
-![Profile Picture](images/793B7687-03D1-48AD-BE04-96B8E74E2B1C_1_105_c.jpeg) 
+![Profile Picture](793B7687-03D1-48AD-BE04-96B8E74E2B1C_1_105_c.jpeg) <!-- If the image is in the root directory -->
 
 Welcome to my GitHub user page! I'm a third-year Computer Engineering student with a passion for software development and problem solving.
 
