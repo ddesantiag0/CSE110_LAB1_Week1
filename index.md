@@ -3,7 +3,7 @@
 
 ![Profile Picture](793B7687-03D1-48AD-BE04-96B8E74E2B1C_1_105_c.jpeg) <!-- If the image is in the root directory -->
 
-Welcome to my GitHub user page! I'm a third-year Computer Engineering student with a passion for software development and problem solving.
+Welcome to my GitHub page! I'm David, a Computer Engineering student at UC San Diego, where I'm blending my passion for technology with practical problem-solving skills. Through projects ranging from simple web apps to complex systems analysis, I've honed my abilities in languages like Python, Java, and JavaScript. Outside the classroom, I explore the latest in machine learning and AI, always looking for ways to apply these technologies in meaningful ways. Join me here as I document my journey through coding challenges, personal projects, and the continuous learning that defines the field of computer engineering.
 
 ### Contact Information
 - **Email:** [ddesantiago@ucsd.edu](mailto:ddesantiago@ucsd.edu)
