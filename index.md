@@ -32,7 +32,7 @@ Welcome to my GitHub user page! I'm a third-year Computer Engineering student wi
       return result.trim();
     }
     ```
-    For more details, see [Morse Translate on GitHub](https://github.com/ddesantiag0/CSE110_LAB1_Week1/morsetranslate.js). <!-- Update this link to point to the actual file -->
+    For more details, see [Morse Translate on GitHub](https://github.com/ddesantiag0/CSE110_LAB1_Week1/blob/main/morsetranslate.js). <!-- Update this link to point to the actual file -->
 
 ### Skills
 `Python`, `Java`, `C`, `JavaScript`, `C++`
